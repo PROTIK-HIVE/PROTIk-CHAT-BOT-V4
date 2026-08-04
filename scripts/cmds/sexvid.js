@@ -155,7 +155,7 @@ module.exports = {
 
     if (senderID !== null) {
       message.reply({
-        body: 'Dekh beta 😂',
+        body: 'luxxha halar po 😂',
         attachment: await global.utils.getStreamFromURL(randomVideo),
       });
 
