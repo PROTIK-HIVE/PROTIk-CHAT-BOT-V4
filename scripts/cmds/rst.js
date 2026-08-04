@@ -14,8 +14,8 @@ module.exports = {
 
 	langs: {
 		en: {
-			restartting: "┌───  🎀 𝗠𝗘𝗟𝗜𝗦𝗦𝗔 𝗕𝗢𝗧 𝗩𝟯 🎀  ───\n├➤ 🐤 Melissa Bot is restarting... 🐤 \n└───  🎀 𝗠𝗘𝗟𝗜𝗦𝗦𝗔 𝗕𝗢𝗧 𝗩𝟯 🎀  ───",
-			restartSuccess: "┌───  🎀 𝗠𝗘𝗟𝗜𝗦𝗦𝗔 𝗕𝗢𝗧 𝗩𝟯 🎀  ───\n├➤ 🎀 Melissa Bot has been successfully restarted! 🎀\n├➤ ⏰ Melissa's Restarting time: %1s\n└───  🎀 𝗠𝗘𝗟𝗜𝗦𝗦𝗔 𝗕𝗢𝗧 𝗩𝟯 🎀  ───"
+			restartting: "┌───  🎀 DI AVLO II 🎀  ───\n├➤ 🐤 Melissa Bot is restarting... 🐤 \n└───  🎀 DI AVLO II 🎀  ───",
+			restartSuccess: "┌───  🎀 DI AVLO II 🎀  ───\n├➤ 🎀 Diavlo Bot has been successfully restarted! 🎀\n├➤ ⏰ Diavlo's Restarting time: %1s\n└───  🎀 DI AVLO II 🎀  ───"
 		}
 	},
 
