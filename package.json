@@ -6,7 +6,7 @@
 	"engines": {
     "node": "18.x",
     "npm": ">=7.0.0"
-  }
+  },
 	"dependencies": {
 		"@distube/ytdl-core": "^4.13.3",
 		"1secmail-api": "^1.1.1",
