@@ -16,9 +16,9 @@ module.exports = {
 
 	langs: {
 		en: {
-			help: "『 𝐌𝐄𝐋𝐈𝐒𝐒𝐀 𝐕𝟒 𝐇𝐄𝐋𝐏 』\n\n%1\n\n➤ Page %2/%3\n➤ Commands: %4\n➤ Prefix: %5\n➤ Owner: 𝗕𝗮𝗱𝗵𝗼𝗻\n\n『 %5help <page> 』\n『 %5help -c <category> 』\n『 %5help -a <author> 』\n『 %5help <command> 』",
-			categoryHelp: "『 𝐂𝐀𝐓𝐄𝐆𝐎𝐑𝐘: %1 』\n\n%2\n\n➤ Commands: %3\n➤ Prefix: %4\n➤ Owner: 𝗕𝗮𝗱𝗵𝗼𝗻",
-			authorHelp: "『 𝐀𝐔𝐓𝐇𝐎𝐑: %1 』\n\n%2\n\n➤ Commands: %3\n➤ Prefix: %4\n➤ Owner: 𝗕𝗮𝗱𝗵𝗼𝗻",
+			help: "『 YOUR OLIVIA V 』\n\n%1\n\n➤ Page %2/%3\n➤ Commands: %4\n➤ Prefix: %5\n➤ Owner: 𝗕𝗮𝗱𝗵𝗼𝗻\n\n『 %5help <page> 』\n『 %5help -c <category> 』\n『 %5help -a <author> 』\n『 %5help <command> 』",
+			categoryHelp: "『 𝐂𝐀𝐓𝐄𝐆𝐎𝐑𝐘: %1 』\n\n%2\n\n➤ Commands: %3\n➤ Prefix: %4\n➤ Owner: PROTIK",
+			authorHelp: "『 𝐀𝐔𝐓𝐇𝐎𝐑: %1 』\n\n%2\n\n➤ Commands: %3\n➤ Prefix: %4\n➤ Owner: PROTIK",
 			commandInfo: "『 %1 』\n\n✦ Name: %1\n✦ Aliases: %2\n✦ Version: %3\n✦ Role: %4\n✦ Author: %5\n✦ Category: %6\n\n✦ Description:\n  %7\n\n✦ Usage:\n  %8",
 			notFound: "『 𝟰𝟬𝟰 』 %1 not found",
 			noPage: "『 𝟰𝟬𝟰 』 Page %1 not found",
