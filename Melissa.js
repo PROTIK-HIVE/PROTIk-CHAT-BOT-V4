@@ -220,6 +220,7 @@ global.temp = {
 
 // watch dirConfigCommands file and dirConfig
 const watchAndReloadConfig = (dir, type, prop, logName) => {
+	    return;
         let lastModified = fs.statSync(dir).mtimeMs;
         let isFirstModified = true;
         fs.watch(dir, (eventType) => { //
