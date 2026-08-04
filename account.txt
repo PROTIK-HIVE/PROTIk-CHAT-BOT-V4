@@ -1,15 +1,6 @@
 [
     {
-        "domain": ".facebook.com",
-        "expirationDate": 1819966213.899588,
-        "hostOnly": false,
-        "httpOnly": true,
-        "name": "ps_l",
-        "path": "/",
-        "sameSite": "lax",
-        "secure": true,
-        "session": false,
-        "storeId": null,
+    
         "value": "1"
     },
     {
