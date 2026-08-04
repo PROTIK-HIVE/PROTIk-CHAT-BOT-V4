@@ -223,7 +223,7 @@ const watchAndReloadConfig = (dir, type, prop, logName) => {
 	    return;
         let lastModified = fs.statSync(dir).mtimeMs;
         let isFirstModified = true;
-        fs.watch(dir, (eventType) => { 
+        fs.watch(dir, (eventType) => { //
                 if (eventType === type) {
                         const oldConfig = global.GoatBot[prop];
 
