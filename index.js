@@ -1,3 +1,9 @@
+const express = require('express');
+const app = express();
+const PORT = process.env.PORT || 3000;
+
+app.get('/', (req, res) => res.send('Bot is Live!'));
+app.listen(PORT, () => console.log(`Server listening on port ${PORT}`));
 /**
  * @author Badhon-00
  * ! The source code is written by Badhon, please don't change the author's name everywhere. Thank you for using
